@@ -1,0 +1,7 @@
+E:\ASE\cloudAsssignment\WcfClientCurrencyConverter\WcfClientCurrencyConverter\bin\Debug\WcfClientCurrencyConverter.exe.config
+E:\ASE\cloudAsssignment\WcfClientCurrencyConverter\WcfClientCurrencyConverter\bin\Debug\WcfClientCurrencyConverter.exe
+E:\ASE\cloudAsssignment\WcfClientCurrencyConverter\WcfClientCurrencyConverter\bin\Debug\WcfClientCurrencyConverter.pdb
+E:\ASE\cloudAsssignment\WcfClientCurrencyConverter\WcfClientCurrencyConverter\obj\Debug\WcfClientCurrencyConverter.csproj.AssemblyReference.cache
+E:\ASE\cloudAsssignment\WcfClientCurrencyConverter\WcfClientCurrencyConverter\obj\Debug\WcfClientCurrencyConverter.csproj.CoreCompileInputs.cache
+E:\ASE\cloudAsssignment\WcfClientCurrencyConverter\WcfClientCurrencyConverter\obj\Debug\WcfClientCurrencyConverter.exe
+E:\ASE\cloudAsssignment\WcfClientCurrencyConverter\WcfClientCurrencyConverter\obj\Debug\WcfClientCurrencyConverter.pdb
